@@ -1,6 +1,7 @@
 history/
 __Previews/
-Project output */
+Project outputs */
+Project Logs for */
 Firmware/dist/
 Firmware/debug/
 Firmware/build/
