@@ -1,0 +1,7 @@
+history/
+__Previews/
+Project output */
+Firmware/dist/
+Firmware/debug/
+Firmware/build/
+
