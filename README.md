@@ -24,6 +24,7 @@ It is definitely one of those projects that don’t require too much time but yo
 ## Find out more cool projects 
 
 Find more cool projects on my [website][1].
+
 Also feel free to follow me on social media:
 [SasaKaranovic.com][2] - [YouTube][3] - [Facebook][4] - [Twitter][5] - [LinkedIn][6]
 
