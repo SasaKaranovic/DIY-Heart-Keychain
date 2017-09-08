@@ -11,6 +11,7 @@ It is definitely one of those projects that don’t require too much time but yo
 
 [![Back side of Heart Keychain in Hand](http://sasakaranovic.com/wp-content/uploads/2017/09/InHand_Back-Preview-300x169.jpg)](http://sasakaranovic.com/wp-content/uploads/2017/09/InHand_Back-Preview.jpg)
 
+![](http://sasakaranovic.com/wp-content/uploads/2017/09/InHand-Raw-600px.gif)
 [![ Heart Keychain in Action](http://sasakaranovic.com/wp-content/uploads/2017/09/InHand-Raw-600px.gif)](http://sasakaranovic.com/wp-content/uploads/2017/09/InHand-Raw-600px.gif)
 
 ### Schematic and PCB
